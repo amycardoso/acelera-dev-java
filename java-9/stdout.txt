@@ -1,0 +1,345 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/amelia/codenation/java-9/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+12:32:07.203 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.230 [main] INFO org.reflections.Reflections - Reflections took 25 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.269 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.270 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.272 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.274 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.277 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.279 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.281 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.283 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.286 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.288 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.290 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.292 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.293 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.295 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.296 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.298 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.299 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.300 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.303 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.305 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.306 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.307 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.309 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.310 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.311 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.312 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.314 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.316 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.318 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.319 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.326 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.327 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.329 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.330 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.332 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.333 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.338 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.339 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.340 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.342 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.345 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.346 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.348 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.350 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.351 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.352 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.353 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.354 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.355 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.356 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.357 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.359 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.360 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.361 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.362 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.364 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.365 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.366 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.370 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.372 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.374 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.376 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.377 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.378 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.380 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.381 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.382 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.383 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.383 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.384 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.385 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.386 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.387 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.388 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.389 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.390 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.391 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.392 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.393 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.394 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.394 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.395 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.396 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.397 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.398 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.399 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.400 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.401 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.402 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.403 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.404 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.405 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.406 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.407 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.408 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.409 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.409 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.410 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.411 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.412 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.412 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.413 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.414 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.414 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.415 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.416 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.416 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.417 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.418 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.419 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.419 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.420 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.421 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.422 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.423 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.424 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.425 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.425 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.426 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.427 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.428 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.429 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.430 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.431 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.434 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.435 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.437 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.438 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.439 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.440 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.441 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.442 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.443 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.444 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.445 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.446 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.447 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.448 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.449 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.450 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.450 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.451 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.452 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.452 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.453 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.454 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.454 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.455 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.456 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.457 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.458 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.459 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.462 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.463 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.464 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.465 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.466 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.467 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.468 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.468 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.469 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.470 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.471 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.472 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.473 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.474 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.474 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.475 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.476 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.477 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.477 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.478 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.479 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.480 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.480 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.481 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.482 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.483 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.484 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.485 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.486 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.487 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.487 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.488 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.490 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.491 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.492 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.492 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.493 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.494 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.494 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.495 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.496 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.497 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.497 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.498 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.499 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.500 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.501 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.502 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+12:32:07.502 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/amelia/codenation/java-9/target/classes/
+12:32:07.503 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.414 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.501 s
+[INFO] Finished at: 2020-05-28T12:32:08-05:00
+[INFO] ------------------------------------------------------------------------
